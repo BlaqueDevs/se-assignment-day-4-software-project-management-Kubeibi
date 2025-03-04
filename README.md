@@ -17,11 +17,38 @@ Waterfall Pros: Clear structure, easy to manage. Cons: Hard to change once start
 Agile is better for projects that require frequent updates, like mobile apps. Waterfall is better for projects with fixed needs, like building an ATM system.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-Quality assurance is important to avoid bugs and ensure user satisfaction. Methods include testing, code reviews, and continuous feedback.
+Agile works best for projects that need flexibility, frequent updates, and ongoing user feedback.
+
+Examples:
+
+Mobile App Development – New features and improvements are added regularly.
+E-commerce Websites – User demands and market trends change frequently.
+Startups & MVPs (Minimum Viable Products) – Quick changes are needed based on customer feedback.
+Software with Evolving Requirements – AI-based tools or social media platforms that need constant updates.
+When Waterfall is More Beneficial:
+Waterfall is better for structured projects with clear, fixed requirements and minimal changes.
+
+Examples:
+
+Banking Software – Security and compliance require well-defined steps.
+Government or Defense Projects – Strict regulations and documentation are needed.
+Construction & Infrastructure Software – Plans must be finalized before development.
+Medical Software Development – Requires detailed planning, testing, and approvals.
+
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-Project scope defines what the project includes and excludes. A Work Breakdown Structure (WBS) breaks tasks into smaller parts, making planning and tracking easier.
 
+Requirement Analysis – Clearly define what the software should do.
+Code Reviews – Have team members check each other’s code for mistakes.
+Automated Testing – Use tools to test code automatically.
+Manual Testing – Test the software by using it like a real user.
+Bug Tracking – Use a system to report and fix issues.
+
+Why High Standards Matter:
+Reduces Bugs – Prevents software from crashing or malfunctioning.
+Improves User Experience – Users enjoy smooth and reliable software.
+Saves Time & Money – Fixing problems early is cheaper than after release.
+Protects Reputation – High-quality software builds trust with users.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 A detailed project schedule helps keep things on track. Gantt charts show timelines visually, helping teams see deadlines and progress.
@@ -53,6 +80,11 @@ Software solution description should be simple and focus on what it does. Exampl
 
 ## 11. What are the main features or functionalities that make your software stand out?
 Main features are what make the software unique, such as automation, AI support, or a user-friendly design.
+User-Friendly Interface – Easy to navigate and use.
+Automation – Reduces manual work by handling repetitive tasks.
+Fast Performance – Runs smoothly without lag.
+Customization – Users can adjust settings to fit their needs.
+Security – Protects user data with encryption and secure logins.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 Market size data shows how many people might use the software and if it has growth potential.
